@@ -1,1 +1,7 @@
 /x64/
+*.suo
+*.sdf
+*.opensdf
+*.pdb
+*.ilk
+*.exe
