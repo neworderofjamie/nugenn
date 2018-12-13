@@ -5,3 +5,4 @@
 *.pdb
 *.ilk
 *.exe
+/generated_code/
